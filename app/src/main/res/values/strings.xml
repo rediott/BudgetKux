@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BudgetKu!</string>
+    <string-array name="items">
+        <item>Pilih Item</item>
+        <item>Pangan</item>
+        <item>Kebutuhan Rumah</item>
+        <item>Sandang</item>
+        <item>Personal</item>
+        <item>Edukasi</item>
+        <item>Rekreasi</item>
+        <item>Kesehatan</item>
+        <item>Transportasi</item>
+        <item>lain - Lain</item>
+    </string-array>
+</resources>
